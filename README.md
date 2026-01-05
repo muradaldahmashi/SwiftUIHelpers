@@ -52,7 +52,7 @@ Section {
 
 ### Tab with text-only labels
 
-Available on iOS 18+, macOS 15+:
+Available on iOS 18 and aligned releases (2024):
 ```swift
 TabView {
     Tab("Home", value: .home) {
