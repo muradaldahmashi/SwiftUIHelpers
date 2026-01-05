@@ -71,6 +71,23 @@ TabView {
 
 <img src="Resources/Tabs.png" width="375">
 
+### Static transform for compile-time conditions
+
+Apply different modifiers based on availability checks, compiler directives, or build configuration:
+```swift
+Button("Sign In") { }
+.staticTransform { view in
+    if #available(iOS 26.0, *) {
+        view.buttonStyle(.glass)
+    } else {
+        view.buttonStyle(.bordered)
+    }
+}
+```
+
+> [!WARNING]
+> `staticTransform` is designed exclusively for compile-time conditions. Do not use it as a general-purpose conditional modifier with runtime state (`@State`, `@Binding`, computed properties, etc.). Doing so will break view identity and cause performance issues. For runtime conditionals, use standard SwiftUI patterns like `Group` with `if` statements.
+
 ## License
 
 MIT
