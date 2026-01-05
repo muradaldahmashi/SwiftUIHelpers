@@ -87,7 +87,3 @@ Button("Sign In") { }
 
 > [!WARNING]
 > `staticTransform` is designed exclusively for compile-time conditions. Do not use it as a general-purpose conditional modifier with runtime state (`@State`, `@Binding`, computed properties, etc.). Doing so will break view identity and cause performance issues. For runtime conditionals, use standard SwiftUI patterns like `Group` with `if` statements.
-
-## License
-
-MIT
