@@ -73,6 +73,8 @@ TabView {
 
 ### Static transform for compile-time conditions
 
+Original code by [Julien Sagot](https://x.com/Barbapapapps/status/2002762692801737183/).
+
 Apply different modifiers based on availability checks, compiler directives, or build configuration:
 ```swift
 Button("Sign In") { }
