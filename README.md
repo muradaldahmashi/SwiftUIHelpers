@@ -35,6 +35,19 @@ Section {
 
 <img src="Resources/LabelInternalImage.png" width="375">
 
+### Label with UIImage or NSImage
+
+Create labels directly from platform-native image instances:
+```swift
+// iOS, tvOS, watchOS, visionOS
+let icon = UIImage(named: "custom-icon")!
+Label("Custom Icon", uiImage: icon)
+
+// macOS
+let icon = NSImage(named: "custom-icon")!
+Label("Custom Icon", nsImage: icon)
+```
+
 ### LabeledContent with system image
 ```swift
 Section {
@@ -70,6 +83,29 @@ TabView {
 ```
 
 <img src="Resources/Tabs.png" width="375">
+
+### System symbol availability checking
+
+Check whether system symbols exist before using them, preventing runtime issues when symbols aren't available:
+
+```swift
+// Check public system symbols
+if Image.systemSymbolExists("star.leadinghalf.filled") {
+    Image(systemName: "star.leadinghalf.filled")
+} else {
+    Image(systemName: "star.fill")
+}
+
+// Check private system symbols
+if Image.privateSymbolExists("macintosh.classic") {
+    Image(_internalSystemName: "macintosh.classic")
+} else {
+    Image(systemName: "desktopcomputer")
+}
+```
+
+> [!NOTE]
+> Private symbols are not guaranteed to be available across OS versions and may change without notice. Use `privateSymbolExists(_:)` to safely check availability before using them.
 
 ### Static transform for compile-time conditions
 
