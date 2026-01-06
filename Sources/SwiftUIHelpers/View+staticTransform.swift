@@ -38,7 +38,7 @@ extension View {
     /// - Returns: A view modified according to the compile-time conditions.
     @inlinable
     public func staticTransform<Content: View>(
-        @ViewBuilder _ content: @Sendable (_ view: Self) -> Content
+        @ViewBuilder _ content: (_ view: Self) -> Content
     ) -> some View {
         content(self)
     }
