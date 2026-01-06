@@ -44,6 +44,7 @@ extension Image {
     /// - Returns: `true` if the private symbol exists, otherwise `false`.
     public static func privateSymbolExists(_ name: String) -> Bool {
         #if canImport(UIKit)
+        // thank you seb https://x.com/SebJVidal/status/2006091535029596476
         let selector = NSSelectorFromString(#Obfuscate("_systemImageNamed:withConfiguration:allowPrivate:"))
         guard UIImage.responds(to: selector) else { return false }
 
